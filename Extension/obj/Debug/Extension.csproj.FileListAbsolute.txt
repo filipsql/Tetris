@@ -1,0 +1,5 @@
+C:\Users\filip\onedrive\documents\visual studio 2017\Projects\lab 4_ver1\Extension\bin\Debug\Extension.dll
+C:\Users\filip\onedrive\documents\visual studio 2017\Projects\lab 4_ver1\Extension\bin\Debug\Extension.pdb
+C:\Users\filip\onedrive\documents\visual studio 2017\Projects\lab 4_ver1\Extension\obj\Debug\Extension.csproj.CoreCompileInputs.cache
+C:\Users\filip\onedrive\documents\visual studio 2017\Projects\lab 4_ver1\Extension\obj\Debug\Extension.dll
+C:\Users\filip\onedrive\documents\visual studio 2017\Projects\lab 4_ver1\Extension\obj\Debug\Extension.pdb

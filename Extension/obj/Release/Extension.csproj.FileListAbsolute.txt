@@ -1,0 +1,6 @@
+C:\Users\filip\onedrive\documents\visual studio 2017\Projects\lab 4_ver1\Extension\bin\Release\Extension.dll
+C:\Users\filip\onedrive\documents\visual studio 2017\Projects\lab 4_ver1\Extension\bin\Release\Extension.pdb
+C:\Users\filip\onedrive\documents\visual studio 2017\Projects\lab 4_ver1\Extension\obj\Release\Extension.csprojResolveAssemblyReference.cache
+C:\Users\filip\onedrive\documents\visual studio 2017\Projects\lab 4_ver1\Extension\obj\Release\Extension.csproj.CoreCompileInputs.cache
+C:\Users\filip\onedrive\documents\visual studio 2017\Projects\lab 4_ver1\Extension\obj\Release\Extension.dll
+C:\Users\filip\onedrive\documents\visual studio 2017\Projects\lab 4_ver1\Extension\obj\Release\Extension.pdb

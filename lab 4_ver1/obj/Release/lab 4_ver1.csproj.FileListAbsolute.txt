@@ -1,0 +1,16 @@
+C:\Users\filip\onedrive\documents\visual studio 2017\Projects\lab 4_ver1\lab 4_ver1\bin\Release\lab 4_ver1.exe
+C:\Users\filip\onedrive\documents\visual studio 2017\Projects\lab 4_ver1\lab 4_ver1\bin\Release\lab 4_ver1.pdb
+C:\Users\filip\onedrive\documents\visual studio 2017\Projects\lab 4_ver1\lab 4_ver1\bin\Release\CustomControl.dll
+C:\Users\filip\onedrive\documents\visual studio 2017\Projects\lab 4_ver1\lab 4_ver1\bin\Release\Extension.dll
+C:\Users\filip\onedrive\documents\visual studio 2017\Projects\lab 4_ver1\lab 4_ver1\bin\Release\Podaci.dll
+C:\Users\filip\onedrive\documents\visual studio 2017\Projects\lab 4_ver1\lab 4_ver1\bin\Release\CustomControl.pdb
+C:\Users\filip\onedrive\documents\visual studio 2017\Projects\lab 4_ver1\lab 4_ver1\bin\Release\Extension.pdb
+C:\Users\filip\onedrive\documents\visual studio 2017\Projects\lab 4_ver1\lab 4_ver1\bin\Release\Podaci.pdb
+C:\Users\filip\onedrive\documents\visual studio 2017\Projects\lab 4_ver1\lab 4_ver1\obj\Release\lab 4_ver1.csprojResolveAssemblyReference.cache
+C:\Users\filip\onedrive\documents\visual studio 2017\Projects\lab 4_ver1\lab 4_ver1\obj\Release\lab_4_ver1.Form1.resources
+C:\Users\filip\onedrive\documents\visual studio 2017\Projects\lab 4_ver1\lab 4_ver1\obj\Release\lab_4_ver1.Form2.resources
+C:\Users\filip\onedrive\documents\visual studio 2017\Projects\lab 4_ver1\lab 4_ver1\obj\Release\lab_4_ver1.Properties.Resources.resources
+C:\Users\filip\onedrive\documents\visual studio 2017\Projects\lab 4_ver1\lab 4_ver1\obj\Release\lab 4_ver1.csproj.GenerateResource.Cache
+C:\Users\filip\onedrive\documents\visual studio 2017\Projects\lab 4_ver1\lab 4_ver1\obj\Release\lab 4_ver1.csproj.CoreCompileInputs.cache
+C:\Users\filip\onedrive\documents\visual studio 2017\Projects\lab 4_ver1\lab 4_ver1\obj\Release\lab 4_ver1.exe
+C:\Users\filip\onedrive\documents\visual studio 2017\Projects\lab 4_ver1\lab 4_ver1\obj\Release\lab 4_ver1.pdb

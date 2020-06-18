@@ -1,0 +1,5 @@
+C:\Users\filip\onedrive\documents\visual studio 2017\Projects\lab 4_ver1\Podaci\bin\Release\Podaci.dll
+C:\Users\filip\onedrive\documents\visual studio 2017\Projects\lab 4_ver1\Podaci\bin\Release\Podaci.pdb
+C:\Users\filip\onedrive\documents\visual studio 2017\Projects\lab 4_ver1\Podaci\obj\Release\Podaci.csproj.CoreCompileInputs.cache
+C:\Users\filip\onedrive\documents\visual studio 2017\Projects\lab 4_ver1\Podaci\obj\Release\Podaci.dll
+C:\Users\filip\onedrive\documents\visual studio 2017\Projects\lab 4_ver1\Podaci\obj\Release\Podaci.pdb

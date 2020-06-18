@@ -1,0 +1,16 @@
+c:\users\filip\onedrive\documents\visual studio 2017\Projects\lab 4_ver1\lab 4_ver1\bin\Debug\lab 4_ver1.exe
+c:\users\filip\onedrive\documents\visual studio 2017\Projects\lab 4_ver1\lab 4_ver1\bin\Debug\lab 4_ver1.pdb
+c:\users\filip\onedrive\documents\visual studio 2017\Projects\lab 4_ver1\lab 4_ver1\bin\Debug\CustomControl.dll
+c:\users\filip\onedrive\documents\visual studio 2017\Projects\lab 4_ver1\lab 4_ver1\bin\Debug\Podaci.dll
+c:\users\filip\onedrive\documents\visual studio 2017\Projects\lab 4_ver1\lab 4_ver1\bin\Debug\CustomControl.pdb
+c:\users\filip\onedrive\documents\visual studio 2017\Projects\lab 4_ver1\lab 4_ver1\bin\Debug\Podaci.pdb
+c:\users\filip\onedrive\documents\visual studio 2017\Projects\lab 4_ver1\lab 4_ver1\obj\Debug\lab 4_ver1.csprojResolveAssemblyReference.cache
+c:\users\filip\onedrive\documents\visual studio 2017\Projects\lab 4_ver1\lab 4_ver1\obj\Debug\lab_4_ver1.Form1.resources
+c:\users\filip\onedrive\documents\visual studio 2017\Projects\lab 4_ver1\lab 4_ver1\obj\Debug\lab_4_ver1.Properties.Resources.resources
+c:\users\filip\onedrive\documents\visual studio 2017\Projects\lab 4_ver1\lab 4_ver1\obj\Debug\lab 4_ver1.csproj.GenerateResource.Cache
+c:\users\filip\onedrive\documents\visual studio 2017\Projects\lab 4_ver1\lab 4_ver1\obj\Debug\lab 4_ver1.csproj.CoreCompileInputs.cache
+c:\users\filip\onedrive\documents\visual studio 2017\Projects\lab 4_ver1\lab 4_ver1\obj\Debug\lab 4_ver1.exe
+c:\users\filip\onedrive\documents\visual studio 2017\Projects\lab 4_ver1\lab 4_ver1\obj\Debug\lab 4_ver1.pdb
+C:\Users\filip\onedrive\documents\visual studio 2017\Projects\lab 4_ver1\lab 4_ver1\obj\Debug\lab_4_ver1.Form2.resources
+C:\Users\filip\onedrive\documents\visual studio 2017\Projects\lab 4_ver1\lab 4_ver1\bin\Debug\Extension.dll
+C:\Users\filip\onedrive\documents\visual studio 2017\Projects\lab 4_ver1\lab 4_ver1\bin\Debug\Extension.pdb

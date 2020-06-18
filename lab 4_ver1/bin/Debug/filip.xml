@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<ListaOsoba xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ListaOsobaValues>
+    <Osoba>
+      <Ime>Filip</Ime>
+      <Prezime>Stanojkovic</Prezime>
+      <Poeni>11000</Poeni>
+    </Osoba>
+    <Osoba>
+      <Ime>Marko</Ime>
+      <Prezime>Markovic</Prezime>
+      <Poeni>5000</Poeni>
+    </Osoba>
+    <Osoba>
+      <Ime>Mik</Ime>
+      <Prezime>Dzrik</Prezime>
+      <Poeni>0</Poeni>
+    </Osoba>
+    <Osoba>
+      <Ime>asdas</Ime>
+      <Prezime>sada</Prezime>
+      <Poeni>0</Poeni>
+    </Osoba>
+  </ListaOsobaValues>
+</ListaOsoba>
